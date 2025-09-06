@@ -91,3 +91,26 @@
     background: #2980b9;
 }
 
+.p2,.produtos{
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: 20px;
+
+}
+a {
+    text-decoration: none;
+   
+}
+.l1,.l2,.l3, .l4{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: red;
+    text-decoration: none;
+    border-radius: 5px;
+   border: 1px solid #ccc;
+}
+
+.l1,.l2,.l3, .l4:hover{
+    background-color: palevioletred;
+}
