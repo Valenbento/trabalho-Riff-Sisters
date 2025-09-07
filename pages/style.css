@@ -118,7 +118,7 @@ body{
 }
 
 h1,h2{
-    color: yellow;
+    color: #d97b29;
 }
 
 h3{
@@ -126,7 +126,7 @@ h3{
 }
 
 span{
-    color: #9a5833;
+    color: #860303;
 }
 
 section{
@@ -203,6 +203,9 @@ section button:hover {
     border-radius: 20px;
     object-fit: cover;
     box-shadow: none;
+}
+.agradecimento{
+    color: brown;
 }
 
 
