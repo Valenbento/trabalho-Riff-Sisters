@@ -67,5 +67,24 @@ h1{
 }
 
 h2{
-    color: grey;
+    color: rgb(73, 72, 72);
+}
+.guitarra1{
+    display: block;
+    margin: 50px auto;
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    object-fit: cover;
+    box-shadow: none;
+}
+
+.classicos1{
+    color: hwb(9 2% 32%);
+    text-align: center;
+    
+}
+
+body{
+    background-color: hsl(37, 45%, 60%);
 }

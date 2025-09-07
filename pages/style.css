@@ -172,16 +172,16 @@ section span{
     margin: 40px;
 }
 
-.pr1 .pr2 .pr3 .pr4 button {
-    background: #3498db;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
+section button {
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
 }
 
-.pr1 .pr2 .pr3 .pr4 button:hover {
-    background: #2980b9;
+section button:hover {
+  background: #2980b9;
 }
 
 
