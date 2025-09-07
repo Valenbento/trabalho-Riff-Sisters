@@ -195,6 +195,15 @@ section button:hover {
  list-style: none;
 }
 
+.g2{
+     display: block;
+    margin: 50px auto;
+    width: 600px;
+    height: 900px;
+    border-radius: 20px;
+    object-fit: cover;
+    box-shadow: none;
+}
 
 
 
