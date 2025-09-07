@@ -133,7 +133,7 @@ section{
     display: flex;
     align-items: center;
     gap: 20px;
-    background-color: #a76640;
+    background-color: #d97b29;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -148,7 +148,7 @@ section img{
 
 section h3{
     margin-top: 0;
-    color: #9a5833;
+    color: hsl(22, 89%, 22%);
 }
 
 section p{
@@ -157,14 +157,14 @@ section p{
 
 section span{
     font-weight: bold;
-    color: #2980b9;
+    color: lch(29.92% 62.43 303.33);
 }
 
 .l4 {
     display: block;
     text-align: center;
-    background-color: #ffd7ab;
-    color: #9a5833;
+    background-color: hwb(31 40% 7%);
+    color: #0468eb;
     text-decoration: none;
     padding: 12px 20px;
     border-radius: 6px;
